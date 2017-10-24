@@ -3,6 +3,11 @@
  - Bio: Learning Web Dev & Design
  - GitHub: [lulabell](https://github.com/lulabell)
 
+#### Name: [Shubham Verma](https://github.com/1Shubham1)
+ - Place: India
+ - Bio: Django lover
+ - GitHub: [1Shubham1](https://github.com/1Shubham1)
+ 
 #### Name: [Tejas S](https://github.com/tejassateesh)
  - Place: Bengaluru, India
  - Bio: Computer Science @ RNSIT
