@@ -22,7 +22,7 @@ Here are 3 quick and painless ways to contribute to this project:
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
-## Getting started
+## Getting Started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 * Clone your fork down to your local machine
 
@@ -50,7 +50,7 @@ git push origin branch-name
 * __Star this repository__ if you had fun!
 
 ## Choose from these tasks
-### 1. Add your name
+### 1. Add Your Name
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
@@ -60,7 +60,7 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - GitHub: [GitHub account name](GitHub link)
 ```
 
-### 2. Add a profile page
+### 2. Add a Profile Page
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 ```markdown
