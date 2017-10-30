@@ -40,23 +40,23 @@ Your data should look somewhat like this:
 ```
 # Your Name
 
-### Academics
+### Academics:
 
 Your School
 
-### Interests
+### Interests:
 
 - Some Things You Like
 
-### Development
+### Development:
 
 - Inventor of the My Pillow
 
-### Projects
+### Projects:
 
 - [My Project](GitHub Link) Short Description
 
-### Profile Link
+### Profile Link:
 
 [Your Name](GitHub Link)
 ```
