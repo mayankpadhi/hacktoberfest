@@ -49,8 +49,8 @@ git push origin branch-name
 * Wait for your PR review and merge approval!
 * __Star this repository__ if you had fun!
 
-## Choose from these tasks
-### 1. Add Your Name
+## Choose from these tasks:
+### 1. Add Your Name:
 Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
 ```markdown
@@ -60,7 +60,7 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - GitHub: [GitHub account name](GitHub link)
 ```
 
-### 2. Add a Profile Page
+### 2. Add a Profile Page:
 Add a `Your_Name.md` file to the `profiles` directory. Use any combination of content and Markdown you'd like. Here is an example:
 
 ```markdown
@@ -91,7 +91,7 @@ Your School
 [Your Name](GitHub Link)
 ```
 
-### 3. Create a `Hello, World!` Script
+### 3. Create a `Hello, World!` Script:
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```Javascript
@@ -114,7 +114,7 @@ Don't forget to include the comments as seen above. Feel free to include additio
 * Discover some obscure to new and trending languages. From BrainFuck to Groovy.
 * Check out very creative ways to print out a "Hello, World!" string
 
-## Reference links
+## Reference links:
 Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
 [https://github.com/Roshanjossey/first-contributions](https://github.com/Roshanjossey/first-contributions)
 
@@ -128,5 +128,5 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
 
-## Additional References Added by Contributors
+## Additional References Added by Contributors:
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
